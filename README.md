@@ -7,4 +7,4 @@ There are 9 assignments from beginners level. It provides you a strong base to s
 # Always welcome for correction, modification and issue raise (RootCyberjet)
 
 # Email :
-For any quary , `shibabiswas1111@gmail.com`
+For any query , `shibabiswas1111@gmail.com`
